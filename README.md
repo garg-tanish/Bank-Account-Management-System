@@ -1,9 +1,12 @@
-## Bank-Account-Management-System
+# Bank-Account-Management-System
+## Intro
+Hi Guys 👋
+
 The Bank Account Management System is an application for maintaining a person's 
 account in a bank. In this project, I tried to show the working of a banking account 
 system and cover the basic functionality of a Bank Account Management System.
 
-**Concept Used**
+## Concept Used
 - Library
 ```cpp
 #include <iostream> 
@@ -16,7 +19,7 @@ system and cover the basic functionality of a Bank Account Management System.
 - Oops
 - File Handling
 
-**Modules:**
+## Modules
 - Module 1: NEW Bank_Account: 
 This module is made for creating a new bank account... We know that we have to open 
 an account to get the bank services. In this, we have to give the information about 
@@ -39,5 +42,14 @@ can also happen by providing an account number.
 - Module-7: Updation AN Bank_Account: 
 In this module, we can update the account information such as account number, 
 name, type of account. 
+
+## Issues
+Incase you have any difficulties or issues while trying to run the code you can raise it on the issues
+
+## Pull Requests
+If you have something to contribute, we welcome Pull Requests to improve the main project, your helpful contribution will be distributed as soon as possible.
+
+## Give it a Star ✴
+If you find this repo useful , give it a Star
 
 **I hope this will help you Thanku**
