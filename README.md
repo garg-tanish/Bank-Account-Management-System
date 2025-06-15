@@ -2,9 +2,7 @@
 ## Intro
 Hi Guys 👋
 
-The Bank Account Management System is an application for maintaining a person's 
-account in a bank. In this project, I tried to show the working of a banking account 
-system and cover the basic functionality of a Bank Account Management System.
+The Bank Account Management System is an application for maintaining a person's account in a bank. In this project, I tried to show the working of a banking account system and cover the basic functionality of a Bank Account Management System.
 
 ## Concept Used
 - Library
@@ -20,36 +18,21 @@ system and cover the basic functionality of a Bank Account Management System.
 - File Handling
 
 ## Modules
-- Module 1: NEW Bank_Account: 
-This module is made for creating a new bank account... We know that we have to open 
-an account to get the bank services. In this, we have to give the information about 
-account number, name, account type, and starting amount to open an account. 
-- Module 2: Money_Deposit Total-Money: 
-This module is to deposit money into the existing account. After depositing the amount 
-the balance is updated. 
-- Module 3: WITHDRAW Total-Money: 
-This module is to withdraw the money from the existing account. After withdrawing 
-the money balance is updated. 
-- Module 4: BALANCE ENQUIRY: 
-This module is to check the balance of account holders. After entering the account 
-number, the person will be able to check the balance. 
-- Module-5: ALL Bank_Account HOLDER LIST: 
-This module is to show the all bank account holder list. So that we can see how many 
-or whose account exists. 
-- Module-6: CLOSE AN Bank_Account: 
-This module is to delete a bank account. When someone wants to delete an account it 
-can also happen by providing an account number. 
-- Module-7: Updation AN Bank_Account: 
-In this module, we can update the account information such as account number, 
-name, type of account. 
+- Module 1: NEW Bank_Account: This module is made for creating a new bank account... We know that we have to open an account to get the bank services. In this, we have to give the information about the account number, name, account type, and starting amount to open an account. 
+- Module 2: Money_Deposit Total-Money: This module is to deposit money into the existing account. After depositing the amount, the balance is updated. 
+- Module 3: WITHDRAW Total-Money: This module is to withdraw the money from the existing account. After withdrawing, the money balance is updated. 
+- Module 4: BALANCE ENQUIRY: This module is to check the balance of account holders. After entering the account number, the person will be able to check the balance. 
+- Module-5: ALL Bank_Account HOLDER LIST: This module is to show the all bank account holder list. So that we can see how many or whose account exists. 
+- Module-6: CLOSE AN Bank_Account: This module is to delete a bank account. When someone wants to delete an account, it can also happen by providing the account number. 
+- Module-7: Updation AN Bank_Account: In this module, we can update the account information, such as account number, name, type of account. 
 
 ## Issues
-Incase you have any difficulties or issues while trying to run the code you can raise it on the issues
+In case you have any difficulties or issues while trying to run the code, you can raise them on the issues.
 
 ## Pull Requests
-If you have something to contribute, we welcome Pull Requests to improve the main project, your helpful contribution will be distributed as soon as possible.
+If you have something to contribute, we welcome Pull Requests to improve the main project. I'll send your helpful contribution as soon as possible.
 
 ## Give it a Star ✴
-If you find this repo useful , give it a Star
+If you find this repo useful, give it a Star
 
-**I hope this will help you Thanku**
+**I hope this will help you. Thank you**
